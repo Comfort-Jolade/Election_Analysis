@@ -14,6 +14,7 @@ Below is the result of the three county County Votes:
 - Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 6.7% (24,801)
+
 Denver has the highest voteswith 82.8% while Arapahoe has the lowest vote of 6.7%
 The candidate winner of the election is Diana DeGette who won with a vote count of 272,892 which represent 73.8% of the total votes.
 Raymon Anthony Doanehas the lease vote with 11,606 which represent 3.1% of the total votes
